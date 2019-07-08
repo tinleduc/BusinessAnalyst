@@ -1,0 +1,74 @@
+1/ Business Analysis Core Concept Models (BACCM)
+  is a conceptual framework for business analysis
+  It encompasses what business analysis is and what it mean to those performing business analysis
+  tasks regardless of perspective industry methodology or level in the organization
+  
+  The six core concepts in the BACCM are:
+    Change : The act of transformation in response to a need
+    Need : A problem or opportunity to be addressed
+    Solution : A specific way of satisfying one or more needs in a context
+    StakeHolder : A group or indicidual with a relationship to chane the need the solution
+    Value : The worth importance or usefulness of something to stakeholder within a context
+    Context : The Circumstances that influence are influenced by and provide understanding of the change
+
+2/ Key Term
+    Business Analysis
+    
+    Business Analysis Information
+    
+    Design
+    
+    Enterprise
+    
+    Organization
+    
+    Plan
+    
+    Requirement
+    
+    Risk
+
+3/ Requirements Classification Schema
+
+    Business Requirements
+    
+    Stakeholder requirements
+    
+    Solution Requirements
+    
+      functional requirements
+      
+      non-functional requirements or quality of service requirements
+      
+    Transition requirements
+
+
+4/ Stakeholders
+    Business Analyst
+    
+    Customer
+    
+    Domain Subject Matter Expert
+    
+    End User
+    
+    Implementation Subject Matter Expert
+    
+    Operational Support
+    
+    Project Manager
+    
+    Regulator
+    
+    Sponsor
+    
+    Supplier
+    
+    Tester
+
+5/ Requirements And Designs
+
+   Eliciting, Analyzing Validating and Managing requirements have sonsistently been recognized ad key activities of BA
+   
+
+
